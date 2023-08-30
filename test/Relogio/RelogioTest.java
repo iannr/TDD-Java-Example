@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 class RelogioTest {
-
+// primeiro teste
 	@Test
 	void verificarHora() {
 		Relogio relogio = new Relogio ();
@@ -18,3 +18,4 @@ class RelogioTest {
 	}
 
 }
+
